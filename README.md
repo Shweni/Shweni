@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shweni Lindokuhle a software development student👩‍🎓 at Codespace Academy, I'm a very passionate and hard working junior Developer
+- 👋 Hi, I’m Shweni Lindokuhle a software development student👩‍🎓 at Codespace Academy, I'm a very passionate and hard working developer
   willing to learn new skills and new 🎇programming languages, in my awesome learning Journey with CodeSpace i have learned:
    📍JavaScript
   📍HTML
